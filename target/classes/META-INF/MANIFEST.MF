@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pratikbhagat
+Build-Jdk: 17.0.5
+Implementation-Title: springboot-rest-api-with-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springboot.jpa.crud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-rest-api-with-jpa
+Created-By: Maven Integration for Eclipse
+
